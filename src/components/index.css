@@ -1,0 +1,99 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+.lien{
+    text-decoration: none;
+    font-size: 39px;
+  }
+  /* .nav{
+    display: flex;
+    justify-content: space-around;
+  
+  } */
+  .form-control{
+    width:18%!important
+  }
+  .contact{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 6%;
+  }
+  #btn-primary{
+    color: #5c345f;
+       background-color: #eae6e6;
+       border-color: #d4aec0;
+      margin-left: 16%;
+  }
+  #card-img{
+    height: 195px;
+  }
+  .nav{
+      
+    background-color: #eae6e6;
+    height: 76px;
+  }
+  
+  #tt{
+    color: #30505a;
+  }
+  #btn1{
+       
+        margin-top: 6%;
+        background-color: #555471;
+        height: 40px;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        border-color: transparent;
+        width: 131%;
+  
+  }
+  #btn2{
+    margin-left: 621%;
+    margin-top: 6%;
+    background-color: #555471;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    border-color: transparent;
+    width: 120%;
+  
+  }
+  #btn3{
+    margin-left: 381%;
+    margin-top: 6%;
+    background-color: #555471;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    border-color: transparent;
+    width: 131%;
+  }
+  #input{
+    justify-content: center;
+    height: 44px;
+    overflow: visible;
+    border-radius: 5px;
+    margin-bottom: 2%;
+    background-color: darkgray;
+    border-color: #313130;
+    width: 78%;
+    margin-left: 11%;
+  }
+  #home-img{
+    width:100%
+  }
